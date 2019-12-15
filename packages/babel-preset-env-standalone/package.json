@@ -39,7 +39,7 @@
   "bugs": {
     "url": "https://github.com/babel/babel/issues"
   },
-  "homepage": "https://github.com/babel/babel/packages/babel-preset-env-standalone#readme",
+  "homepage": "https://github.com/babel/babel/blob/master/packages/babel-preset-env-standalone/README.md",
   "jest": {
     "transformIgnorePatterns": [
       "/node_modules/",
